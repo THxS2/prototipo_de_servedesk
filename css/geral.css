@@ -86,3 +86,17 @@ nav ul li a:hover {
 .btn:hover {
     background-color: #c0392b;
 }
+.btn-secondary {
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+.btn-secondary:hover {
+    background-color: white;
+    color: #3498db;
+}
+
+.btn-large {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
